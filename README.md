@@ -6,7 +6,7 @@ There are two bus stops near me that both have multiple routes that will take me
 
 ### Progress
 - [x] Get API requests working with the TTC
-      - [ ] Figure out why I had to hardcode the agency parameter
+- [ ] \(Daunting)Figure out why I had to hardcode the agency parameter
 - [x] Group and sort the responses by stop
 - [ ] Setup and test 7 segment display
 - [ ] Design a custom PCB for this
